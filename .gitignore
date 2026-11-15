@@ -1,0 +1,20 @@
+# Android / Gradle
+android/.gradle/
+android/.kotlin/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+*.iml
+.DS_Store
+
+# Python / Appium
+__pycache__/
+.pytest_cache/
+.venv/
+appium/reports/
+appium-server.log
+
+# iOS (later)
+ios/**/xcuserdata/
+ios/**/DerivedData/

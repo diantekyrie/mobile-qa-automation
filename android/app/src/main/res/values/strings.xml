@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QA Practice</string>
+
+    <string name="login_title">Sign in</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Log in</string>
+    <string name="error_required">Username and password are required</string>
+    <string name="error_invalid">Invalid username or password</string>
+
+    <string name="welcome">Welcome, %1$s</string>
+    <string name="new_task_hint">New task</string>
+    <string name="add_task">Add</string>
+    <string name="error_empty_task">Task can\'t be empty</string>
+    <string name="task_summary">Tasks: %1$d | Done: %2$d</string>
+    <string name="sync">Sync</string>
+    <string name="sync_idle">Not synced yet</string>
+    <string name="sync_in_progress">Syncing…</string>
+    <string name="sync_done">Synced %1$d tasks</string>
+    <string name="logout">Log out</string>
+</resources>
